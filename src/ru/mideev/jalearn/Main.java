@@ -2,6 +2,6 @@ package ru.mideev.jalearn;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Commit?");
+        System.out.println("Third");
     }
 }
