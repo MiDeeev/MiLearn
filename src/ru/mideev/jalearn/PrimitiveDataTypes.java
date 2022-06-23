@@ -2,7 +2,7 @@ package ru.mideev.jalearn;
 
 public class PrimitiveDataTypes {
 
-    // примитивные типы данных:
+    // primitive data types
 
     byte a = 127; // от -128 до 127
     short b = 32767; // от -32768 до 32767
